@@ -1,10 +1,10 @@
 plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.3.0'
     id 'jacoco'
-
+    id 'maven'
 }
 
-group 'com.carterharrison'
+group 'com.github.AlexDoykov'
 version 'v0.1.0-beta.0'
 
 repositories {
